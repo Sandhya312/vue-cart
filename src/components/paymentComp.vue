@@ -62,7 +62,7 @@ import { mapGetters } from 'vuex'
   <style scoped>
   #payment{
     padding: 30px 10px;
-    width: 50%;
+    width: 40%;
     background: #f1f1f1;
     height: 100%;
   }

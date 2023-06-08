@@ -73,7 +73,7 @@ export default {
 
 <style scoped>
 #shop{
-    width: 50%;
+    width: 60%;
     height: 100%;
     display: flex;
     flex-direction: column;
@@ -89,8 +89,9 @@ export default {
     display: flex;
 }
 .itemDetails{
-    padding: 10px;
+    padding: 15px;
     width: 100%;
+    height: 10rem;
     text-align: left;
 }
 .mb-5{
@@ -106,7 +107,7 @@ export default {
     width: 25%;
 }
 .colorSize{
-    width: 80%;
+    width: 100%;
     display: flex;
     justify-content: space-between;
 }
@@ -136,8 +137,8 @@ export default {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin: 10px;
-    padding: 5px;
+    margin: 10px 0;
+    padding: 5px 0;
     text-align: center;
     width: 7rem;
 }
@@ -147,7 +148,7 @@ export default {
 
 }
 #shipping{
-    padding: 5px;
+    padding: 30px;
     text-align: start;
     height: 40%;
 }

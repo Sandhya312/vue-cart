@@ -39,7 +39,7 @@ export default {
 }
 .cart{
   height: 80%;
-    padding: 1%;
+    padding: 2%;
     display: flex;
     justify-content: center;
 
