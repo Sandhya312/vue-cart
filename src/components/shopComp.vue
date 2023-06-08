@@ -80,7 +80,7 @@ export default {
 
 }
 #itemList{
-    height: 60%;
+    height: 70%;
 }
 
 .item{
@@ -148,9 +148,9 @@ export default {
 
 }
 #shipping{
-    padding: 30px;
+    padding: 10px;
     text-align: start;
-    height: 40%;
+    height: 30%;
 }
 .address{
     flex-direction: column;
